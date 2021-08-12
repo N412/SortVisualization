@@ -1,0 +1,21 @@
+div#san_khau {
+    width: 500px;
+    height: 150px;
+    margin: auto;
+    margin-top: 150px;
+}
+div#san_khau > div {
+    width: 40px;
+    position: absolute;
+    background-color: chartreuse;
+    height: 32px;
+    text-align: center;
+    padding-top: 8px;
+    font-weight: bold;
+    font-size: 20px;
+    /* transition-duration: 1s; */
+}
+div.checked {
+    background-color: blue !important;
+    color: white;
+}
