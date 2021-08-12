@@ -7,15 +7,15 @@ div#san_khau {
 div#san_khau > div {
     width: 40px;
     position: absolute;
-    background-color: chartreuse;
-    height: 32px;
+    background-color: #2db7f5;
+    height: 40px;
     text-align: center;
-    padding-top: 8px;
+    padding-top: 4px;
     font-weight: bold;
     font-size: 20px;
     /* transition-duration: 1s; */
 }
 div.checked {
-    background-color: blue !important;
+    background-color: #f50 !important;
     color: white;
 }
