@@ -9,7 +9,7 @@ export class BubbleComponent implements OnInit {
 
   strArr12: string = '';
   arrNumber: any = [];
-  speed: number = 500;
+  speed: number = 200;
 
   constructor() { }
 

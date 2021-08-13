@@ -120,7 +120,7 @@ class BubbleComponent {
     constructor() {
         this.strArr12 = '';
         this.arrNumber = [];
-        this.speed = 500;
+        this.speed = 200;
     }
     ngOnInit() {
     }
